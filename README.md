@@ -1,2 +1,2 @@
 # DataAnalyticsDailyCoding
-Daily Coding Challenges for Data Scientist
+Daily Coding Challenges for Data Scientists
